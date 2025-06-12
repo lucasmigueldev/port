@@ -897,11 +897,6 @@ section.active {
 }
 
 @media  screen and (max-width: 400px) {
-    html {
-        width: 100%;
-        height: 100%;
-    }
-    
     .home-detail,
     .resume-box h2,
     .resume-box .heading,
